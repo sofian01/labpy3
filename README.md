@@ -40,8 +40,9 @@ print("Selesai")
 
 ==>> Hasil screenshoot program :
 
+![untitled](https://user-images.githubusercontent.com/44091204/52891976-2d4d4a80-31c1-11e9-9904-00788dede3a9.jpg)
 
-![sslatihan1](https://user-images.githubusercontent.com/43899109/52889691-ae054a00-31b3-11e9-85cd-95ff605e8d6b.jpg)
+
 
 
 LATIHAN 2 "Program menampilkan bilangan terbesar"
@@ -86,8 +87,7 @@ print ('Nilai terbesarya adalah :',max)
 
 ==>> Hasil screenshoot program :
 
-
-![sslatihan2](https://user-images.githubusercontent.com/43899109/52889802-397edb00-31b4-11e9-9176-12b4929bf618.jpg)
+![untitled1](https://user-images.githubusercontent.com/44091204/52891978-34745880-31c1-11e9-8997-d67e7492e305.jpg)
 
 
 LATIHAN 3 ( Program 1 ) "Program menghitung laba pengusaha"
@@ -135,5 +135,5 @@ print('Total laba yang didapat adalah      :', sum)
 
 ==>> Hasil screenshoot program 1 :
 
+![untitled2](https://user-images.githubusercontent.com/44091204/52891985-3e965700-31c1-11e9-8321-39880173831a.jpg)
 
-![ssprogram1](https://user-images.githubusercontent.com/43899109/52889970-fbce8200-31b4-11e9-8865-6634c6099f42.jpg)
